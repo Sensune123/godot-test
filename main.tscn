@@ -20,3 +20,5 @@ shape = SubResource("CircleShape2D_yrue0")
 [node name="Icon" type="Sprite2D" parent="CharacterBody2D"]
 position = Vector2(289, 204)
 texture = ExtResource("2_dl0nd")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
